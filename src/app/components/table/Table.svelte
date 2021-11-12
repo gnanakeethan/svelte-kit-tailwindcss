@@ -1,0 +1,18 @@
+<table>
+    <thead>
+    <tr>
+        <th>Testing</th>
+        <th>Kit</th>
+        <th>Killins</th>
+    </tr>
+    </thead>
+    <tbody>
+    <tr>
+        <td>Some</td>
+        <td>What</td>
+        <td>
+            <slot></slot>
+        </td>
+    </tr>
+    </tbody>
+</table>
